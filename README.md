@@ -11,4 +11,4 @@ Slides
 
 [**lecture 2**](https://github.com/yakazimir/esslli_2024_llm_programming/blob/main/slides/lecture2.pdf): declarative approaches to model training, the [**semantic loss**](https://arxiv.org/pdf/1711.11157). [**background logic notes**](https://github.com/yakazimir/esslli_2024_llm_programming/blob/main/slides/logic_background.pdf)
 
-**lecture 3**: *coming soon* 
+[**lecture 3**](https://github.com/yakazimir/esslli_2024_llm_programming/blob/main/slides/lecture3.pdf)
