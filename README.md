@@ -31,4 +31,4 @@ Below are some pointers to code resources:
 
 - **knowledge compilation** [[pysdd]](https://github.com/wannesm/PySDD) 
 
-- **other useful utilities** [[sympy]](https://www.sympy.org/en/index.html), [[lmql]](https://github.com/eth-sri/lmql)
+- **other useful utilities** [[sympy]](https://www.sympy.org/en/index.html), [[lmql]](https://github.com/eth-sri/lmql),[[rasp]](https://github.com/tech-srl/RASP)
