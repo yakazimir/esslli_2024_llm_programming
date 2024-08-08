@@ -8,7 +8,6 @@ Lecturers
 ==========
 
 [**Kyle Richardson**](https://www.krichardson.me/) (Allen Institute for AI) 
-
 [**Gijs Wijnholds**](https://gijswijnholds.github.io/) (Leiden Institute of Advanced Computer Science)
 
 Slides 
@@ -21,3 +20,12 @@ Slides
 [**lecture 3**](https://github.com/yakazimir/esslli_2024_llm_programming/blob/main/slides/lecture3.pdf): declarative and [**probabilistic**](https://www.khoury.northeastern.edu/home/lieber/courses/csg260/f06/materials/papers/bayes/AAAI02-102.pdf) approaches to **structured inference**, [**LLM self-correction**](https://arxiv.org/abs/2211.11875). 
 
 [**lecture 4**](https://github.com/yakazimir/esslli_2024_llm_programming/blob/main/slides/lecture4.pdf) LLM decoding, promting, [**prompting is programming and LMQL**](https://arxiv.org/pdf/2212.06094).
+
+Helpful Resources 
+==========
+
+Below are some pointers to code resources:
+-- **solvers** [[Z3 solver]](https://github.com/Z3Prover/z3), [[python-sat]](https://pysathq.github.io/), [[problog]](https://github.com/ML-KULeuven/problog), [[pyDatalog]](https://github.com/pcarbonn/pyDatalog)
+-- **NLP and general ML** [[transformers]](https://github.com/huggingface/transformers), [[PyTorch]](https://pytorch.org/), [[pylon-lib]](https://github.com/pylon-lib/pylon), [[hf datasets]](https://huggingface.co/docs/datasets/index)
+-- **knowledge compilation** [pysdd]](https://github.com/wannesm/PySDD) 
+-- **other useful utilities** [[sympy]](https://www.sympy.org/en/index.html), [[lmql]](https://github.com/eth-sri/lmql)
