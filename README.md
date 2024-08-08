@@ -9,6 +9,6 @@ Slides
 
 [**lecture 1**](https://github.com/yakazimir/esslli_2024_llm_programming/blob/main/slides/lecture1.pdf): course overview, **language modeling basics**, [**RASP**](https://arxiv.org/pdf/2106.06981). 
 
-[**lecture 2**](https://github.com/yakazimir/esslli_2024_llm_programming/blob/main/slides/lecture2.pdf): declarative approaches to model training, the [**semantic loss**](https://arxiv.org/pdf/1711.11157). [**background logic notes**](https://github.com/yakazimir/esslli_2024_llm_programming/blob/main/slides/logic_background.pdf)
+[**lecture 2**](https://github.com/yakazimir/esslli_2024_llm_programming/blob/main/slides/lecture2.pdf): declarative approaches to **model training**, the [**semantic loss**](https://arxiv.org/pdf/1711.11157) and [**other**](https://arxiv.org/abs/1909.00126) approaches. [**background logic notes**](https://github.com/yakazimir/esslli_2024_llm_programming/blob/main/slides/logic_background.pdf)
 
-[**lecture 3**](https://github.com/yakazimir/esslli_2024_llm_programming/blob/main/slides/lecture3.pdf): declarative and [**probabilistic**](https://www.khoury.northeastern.edu/home/lieber/courses/csg260/f06/materials/papers/bayes/AAAI02-102.pdf) approaches to structured inference, [self-correction](https://arxiv.org/abs/2211.11875). 
+[**lecture 3**](https://github.com/yakazimir/esslli_2024_llm_programming/blob/main/slides/lecture3.pdf): declarative and [**probabilistic**](https://www.khoury.northeastern.edu/home/lieber/courses/csg260/f06/materials/papers/bayes/AAAI02-102.pdf) approaches to **structured inference**, [self-correction](https://arxiv.org/abs/2211.11875). 
