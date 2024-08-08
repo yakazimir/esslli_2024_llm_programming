@@ -29,6 +29,6 @@ Below are some pointers to code resources:
 
 - **NLP and general ML** [[transformers]](https://github.com/huggingface/transformers), [[PyTorch]](https://pytorch.org/), [[pylon-lib]](https://github.com/pylon-lib/pylon), [[hf datasets]](https://huggingface.co/docs/datasets/index)
 
-- **knowledge compilation** [pysdd]](https://github.com/wannesm/PySDD) 
+- **knowledge compilation** [[pysdd]](https://github.com/wannesm/PySDD) 
 
 - **other useful utilities** [[sympy]](https://www.sympy.org/en/index.html), [[lmql]](https://github.com/eth-sri/lmql)
