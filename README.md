@@ -22,6 +22,8 @@ Slides
 
 [**lecture 4**](https://github.com/yakazimir/esslli_2024_llm_programming/blob/main/slides/lecture4.pdf) LLM decoding, [advanced](https://arxiv.org/abs/2210.03629) prompting techniques, [**prompting is programming and LMQL**](https://arxiv.org/pdf/2212.06094).
 
+[**lecture 5**](https://github.com/yakazimir/esslli_2024_llm_programming/blob/main/slides/lecture5.pdf) More on constrained decoding for **structured output**. 
+
 Helpful Resources 
 ==========
 
