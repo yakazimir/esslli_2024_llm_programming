@@ -19,7 +19,7 @@ Slides
 
 [**lecture 3**](https://github.com/yakazimir/esslli_2024_llm_programming/blob/main/slides/lecture3.pdf): declarative and [**probabilistic**](https://www.khoury.northeastern.edu/home/lieber/courses/csg260/f06/materials/papers/bayes/AAAI02-102.pdf) approaches to **structured inference**, [**LLM self-correction**](https://arxiv.org/abs/2211.11875). 
 
-[**lecture 4**](https://github.com/yakazimir/esslli_2024_llm_programming/blob/main/slides/lecture4.pdf) LLM decoding, promting, [**prompting is programming and LMQL**](https://arxiv.org/pdf/2212.06094).
+[**lecture 4**](https://github.com/yakazimir/esslli_2024_llm_programming/blob/main/slides/lecture4.pdf) LLM decoding, adcanced promting techniques, [**prompting is programming and LMQL**](https://arxiv.org/pdf/2212.06094).
 
 Helpful Resources 
 ==========
