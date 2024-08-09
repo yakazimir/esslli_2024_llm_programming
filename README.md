@@ -25,7 +25,7 @@ Helpful Resources
 ==========
 
 Below are some pointers to code resources:
-- **languages** [[scallop]](https://github.com/scallop-lang/scallop), [[problog]](https://github.com/ML-KULeuven/problog), [[pyDatalog]](https://github.com/pcarbonn/pyDatalog), [[lmql]](https://github.com/eth-sri/lmql),[[rasp]](https://github.com/tech-srl/RASP), [[NumPy Rasp]](https://github.com/apple/ml-np-rasp)
+- **languages** [[scallop]](https://github.com/scallop-lang/scallop), [[problog]](https://github.com/ML-KULeuven/problog), [[pyDatalog]](https://github.com/pcarbonn/pyDatalog), [[lmql]](https://github.com/eth-sri/lmql),[[rasp]](https://github.com/tech-srl/RASP), [[NumPy Rasp]](https://github.com/apple/ml-np-rasp), [[deepproblog]](https://github.com/ML-KULeuven/deepproblog) 
 - **automated reasoning tools** [[Z3 solver]](https://github.com/Z3Prover/z3), [[python-sat]](https://pysathq.github.io/)
 - **NLP and general ML** [[transformers]](https://github.com/huggingface/transformers), [[PyTorch]](https://pytorch.org/), [[pylon-lib]](https://github.com/pylon-lib/pylon), [[hf datasets]](https://huggingface.co/docs/datasets/index)
 - **knowledge compilation** [[pysdd]](https://github.com/wannesm/PySDD) 
